@@ -8,6 +8,4 @@
 \contentsline {subsection}{\numberline {2.5}Ample de Banda}{3}{subsection.0.2.5}
 \contentsline {section}{\numberline {3}Aplicacions}{4}{section.0.3}
 \contentsline {section}{\numberline {4}Models Comercials}{5}{section.0.4}
-\contentsline {chapter}{\numberline {1}Refer\IeC {\`e}ncies}{6}{chapter.1}
-\contentsline {section}{\numberline {1}Productes}{6}{section.1.1}
-\contentsline {section}{\numberline {2}Organismes Reguladors}{6}{section.1.2}
+\contentsline {section}{\numberline {5}Organismes Reguladors}{5}{section.0.5}
