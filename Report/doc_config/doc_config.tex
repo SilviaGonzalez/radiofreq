@@ -1,7 +1,7 @@
 %	DOCUMENT CONFIGURATIONS
 
 %   - Properties
-\documentclass[a4paper,11pt]{report} % Sets a two-sided A4 sized paper.
+\documentclass[a4paper,11pt]{article} % Sets a two-sided A4 sized paper.
 
 \linespread{1.15}                         % Default space between lines
 
@@ -71,10 +71,8 @@
 \renewcommand{\figurename}{Figura}
 \renewcommand{\tablename}{Taula}
 \renewcommand{\contentsname}{Llista de continguts}
-\renewcommand{\bibname}{Bibliografia}
 \renewcommand{\listfigurename}{Llista de figures}
 \renewcommand{\listtablename}{Llista de taules}
-\renewcommand{\chaptername}{Capítol}
 
 %   - Text
 \usepackage[none]{hyphenat}         % [none] Prevents any hyphenation throughout the document.
@@ -129,13 +127,11 @@
 \usepackage{import}
 \usepackage{makecell}
 \usepackage{chngcntr}
-\counterwithin{figure}{chapter}
-\counterwithin{table}{chapter}
-\counterwithin{equation}{chapter}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+\counterwithin{equation}{section}
 
 \usepackage{bm}
 
 \renewcommand{\thesection}{\arabic{section}}
-
-%% MARGENES
-\usepackage[margin=0.8in]{geometry}
+\usepackage{multicol}
