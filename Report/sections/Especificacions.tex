@@ -1,11 +1,10 @@
-\chapter{Especificacions del Sistema}
 \section{Components i Característiques TX/RX}
 A continuació es descriuen els dos tipus de altímetres segons la seva modulació:
 \subsection{Altimetre basat en modulació per freqüència FMCW}
 Utilitza dues antenes, una per l'emissió (TX) i una per la recepció(RX). La senyal emesa rebota al terra i retorna a l'aeronau. Durant tota l'estona, el sistema de transmissió va variant la freqüència dins d'un rang, típicament de 50MHz. Així, quan arriba la senyal rebotada, existeix una $\Delta f$ entre aquesta i la senyal TX. Coneixent la velocitat de variació de la freqüència d'emissió $\frac{df}{dt}$ es pot deduir l'alçada $H$ de l'aeronau. Cal remarcar que el sistema omet els efectes Doppler degut a que són despreciables en comparació amb l'efecte de la variació de la freqüència de la modulació FMCW.
 \begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.4]{./img/FMCW.png}
+	\includegraphics[scale=0.3]{./img/FMCW.png}
 	\caption{Esquema del sistema}
 \end{figure}
 

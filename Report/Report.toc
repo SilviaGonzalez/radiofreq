@@ -1,0 +1,13 @@
+\contentsline {chapter}{Llista de figures}{ii}{section*.1}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o} i Funcionalitat}{1}{section.0.1}
+\contentsline {section}{\numberline {2}Components i Caracter\IeC {\'\i }stiques TX/RX}{1}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Altimetre basat en modulaci\IeC {\'o} per freq\IeC {\"u}\IeC {\`e}ncia FMCW}{1}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {2.2}Alt\IeC {\'\i }metre basat en emissi\IeC {\'o} de polsos}{2}{subsection.0.2.2}
+\contentsline {subsection}{\numberline {2.3}Antena}{3}{subsection.0.2.3}
+\contentsline {subsection}{\numberline {2.4}Redund\IeC {\`a}ncia}{3}{subsection.0.2.4}
+\contentsline {subsection}{\numberline {2.5}Ample de Banda}{3}{subsection.0.2.5}
+\contentsline {section}{\numberline {3}Aplicacions}{4}{section.0.3}
+\contentsline {section}{\numberline {4}Models Comercials}{5}{section.0.4}
+\contentsline {chapter}{\numberline {1}Refer\IeC {\`e}ncies}{6}{chapter.1}
+\contentsline {section}{\numberline {1}Productes}{6}{section.1.1}
+\contentsline {section}{\numberline {2}Organismes Reguladors}{6}{section.1.2}
